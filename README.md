@@ -1,2 +1,27 @@
-# minecraft-zero-ui-v2
-A Minecraft clone with zero UI, pure immersion exprience
+# 🎮 Minecraft Clone - Zero UI Edition
+
+一个用 C/OpenGL 从头实现的 Minecraft 克隆版，没有任何界面干扰，纯粹的沉浸式体验。
+
+## ✨ 特性
+- ✅ 完整的方块世界生成
+- ✅ 物理碰撞和重力
+- ✅ 昼夜循环系统
+- ✅ 方块放置/破坏
+- ✅ 零界面设计（无准心、无物品栏）
+- ✅ 全键盘操作
+
+## 🚀 开始游戏
+1. 下载整个项目
+2. 双击 `打开游戏.bat`
+3. 开始你的冒险！
+
+## 🎮 控制方式
+- **WASD** - 移动
+- **空格** - 跳跃
+- **Shift** - 潜行
+- **鼠标** - 视角
+- **ESC** - 退出
+
+没有界面，全靠感觉。探索、生存、创造。
+
+## 🛠️ 从源码构建
